@@ -1,0 +1,70 @@
+.seccion-fotos {
+    width: 78%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .foto1 {
+    width: 50%;
+    padding: 1rem;
+    box-shadow: 5px 10px 5px black;
+  }
+  
+  .foto1 > img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+  }
+  
+  .foto2 {
+    padding: 1rem;
+    width: 50%;
+    box-shadow: 5px 10px 5px black;
+  }
+  
+  .foto2 > img {
+    width: 100%;
+    height: 49.5%;
+    border-radius: 50px;
+  }
+  
+  .seccion-info {
+    width: 50%;
+    padding: 3.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    line-height: 1px;
+  }
+  
+  .seccion-info > h1 {
+    font-family: "Oleo Script Swash Caps";
+    font-size: 48px;
+    width: 50%;
+    border-bottom: 3px solid orange;
+    padding: 22px 0px;
+    text-align: left;
+  }
+  
+  .seccion-info > p {
+    font-family: "Poppins";
+    font-size: 16px;
+    line-height: 160%;
+    text-align: left;
+  }
+  
+  .seccion-info > small {
+    font-family: "Poppins";
+    border: 1px solid orange;
+    border-radius: 40px;
+    width: 40%;
+    font-size: 17px;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    line-height: 21px;
+    padding: 10px;
+    text-align: center;
+  }

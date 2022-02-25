@@ -1,0 +1,35 @@
+.text-portada {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    align-content: center;
+  }
+  
+  .text-portada > h1 {
+    font-family: "Oleo Script Swash Caps";
+    font-size: 96px;
+    letter-spacing: 2px;
+    color: white;
+  }
+  
+  .text-portada > p {
+    font-family: "Poppins";
+    width: 45%;
+    text-align: center;
+    line-height: 35px;
+    font-size: 20px;
+    color: white;
+  }
+  
+  .text-portada > small {
+    font-family: "Poppins";
+    background-color: orange;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 1rem;
+    border-radius: 50px;
+  }
+  

@@ -1,0 +1,19 @@
+.our-menu {
+    padding: 1rem;
+  }
+  
+  .our-menu > button {
+    display: block;
+    margin: auto;
+    background-color: orange;
+    border: 2px solid orange;
+    border-radius: 15px;
+    padding: 0.5rem;
+    font-size: 20px;
+    font-family: "Poppins";
+    color: white;
+    height: 50px;
+    width: 18%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }

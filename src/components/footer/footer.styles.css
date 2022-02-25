@@ -1,0 +1,68 @@
+.info {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding: 2rem;
+}
+
+.titles-info {
+  color: white;
+  width: 30%;
+  height: 190px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.foto-info {
+  width: 20%;
+}
+
+.foto-info > img {
+  width: 100%;
+}
+
+.titles-info > h3 {
+  font-size: 32px;
+  font-family: "Oleo Script Swash Caps";
+}
+
+.titles-info > p {
+  font-size: 14px;
+  font-family: "Poppins";
+  text-align: center;
+}
+
+.titles-info > input {
+  background-color: #ccc;
+  border: 3px solid orange;
+}
+
+.btn-info {
+  display: block;
+  margin: auto;
+  width: 80%;
+  height: 40px;
+  background-color: orange;
+  color: white;
+  font-family: "Poppins";
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.pie-pagina {
+  width: 100%;
+  padding: 1rem;
+  background-color: black;
+}
+
+.pie-pagina > p {
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  font-family: "Poppins";
+}
