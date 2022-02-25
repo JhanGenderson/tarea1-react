@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tarea1-react/static/css/main.82c7f6ab.css",
+    "main.js": "/tarea1-react/static/js/main.7fa5605d.js",
+    "static/media/Fondo2-index.jpg": "/tarea1-react/static/media/Fondo2-index.6b77114e4438ec3388e5.jpg",
+    "static/media/Imagen3.jpg": "/tarea1-react/static/media/Imagen3.b6ce63909bbf6198b5d2.jpg",
+    "static/media/Imagen2.jpg": "/tarea1-react/static/media/Imagen2.78565063662aae1ee24e.jpg",
+    "static/media/Imagen1.jpg": "/tarea1-react/static/media/Imagen1.1f42739cbe67a4d9c449.jpg",
+    "static/media/Meatballs1.jpg": "/tarea1-react/static/media/Meatballs1.02a644fdbb7132160207.jpg",
+    "static/media/Meatballs3.jpg": "/tarea1-react/static/media/Meatballs3.43aac0c1702ce44f4618.jpg",
+    "static/media/Meatballs2.jpg": "/tarea1-react/static/media/Meatballs2.1dd4bf53136adff66062.jpg",
+    "static/media/cooking.svg": "/tarea1-react/static/media/cooking.0cf6760085d217842e34a2f661934c7f.svg",
+    "static/media/telephone.svg": "/tarea1-react/static/media/telephone.80c90e200926f50f8a2ff0decc8ce167.svg",
+    "static/media/cashier.svg": "/tarea1-react/static/media/cashier.2ab278320302ba634124b75f03938faa.svg",
+    "static/media/delivery.svg": "/tarea1-react/static/media/delivery.ed4321971abba0ffdecd74bb4c5f1ce2.svg",
+    "static/media/cashier-1.svg": "/tarea1-react/static/media/cashier-1.ac924354f6b8feedcf922ad81b85f58f.svg",
+    "static/media/cutlery.svg": "/tarea1-react/static/media/cutlery.8dd5ffc146d74c19893ff97af3aec744.svg",
+    "static/media/food-tray.svg": "/tarea1-react/static/media/food-tray.cf43db432f1fe710bc489315b921d030.svg",
+    "index.html": "/tarea1-react/index.html",
+    "main.82c7f6ab.css.map": "/tarea1-react/static/css/main.82c7f6ab.css.map",
+    "main.7fa5605d.js.map": "/tarea1-react/static/js/main.7fa5605d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82c7f6ab.css",
+    "static/js/main.7fa5605d.js"
+  ]
+}
